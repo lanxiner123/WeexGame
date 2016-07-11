@@ -1,0 +1,2 @@
+# WeexGame
+WeexGame是用weex开发的一款关于皇室战争游戏并在ios中成功运用的App,页面流畅
