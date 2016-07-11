@@ -1,0 +1,35 @@
+{
+  "name": "WeexSDK",
+  "version": "0.6.0",
+  "summary": "WeexSDK Source .",
+  "description": "WeexSDK Source description",
+  "homepage": "https://github.com/alibaba/weex",
+  "license": {
+    "type": "Copyright",
+    "text": "           Alibaba-INC copyright\n"
+  },
+  "authors": {
+    "cxfeng1": "cxfeng1@gmail.com",
+    "boboning": "ningli928@163.com",
+    "acton393": "zhangxing610321@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "WeexSDK/Sources/**/*.{h,m,mm,c}",
+  "resources": [
+    "WeexSDK/Resources/weex_config.plist",
+    "WeexSDK/Resources/main.js"
+  ],
+  "requires_arc": true,
+  "prefix_header_file": "WeexSDK/Sources/Supporting Files/WeexSDK-Prefix.pch",
+  "frameworks": "AVKit",
+  "dependencies": {
+    "SocketRocket": [
+
+    ]
+  }
+}
