@@ -66,7 +66,9 @@
 
 <img src="http://7xw81v.com1.z0.glb.clouddn.com/statement.png" width = "340" height = "520" alt="图片名称"/>
 
-#####由于对安卓的东西不太熟悉，前期一直是利用终端扫码来构建页面，现在成功运用到了ios项目中,如果想运行此项目，直接克隆下来，把DemoDefine.h文件里的CURRENT_IP改成自己电脑的ip，运行即可。
+## 关于此项目运用
+
+由于对安卓的东西不太熟悉，前期一直是利用终端扫码来构建页面，现在成功运用到了ios项目中,如果想运行此项目，直接克隆下来，把DemoDefine.h文件里的CURRENT_IP改成自己电脑的ip，运行即可。
 
 ## 关于Weex
 
